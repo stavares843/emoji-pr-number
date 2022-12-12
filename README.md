@@ -9,3 +9,8 @@
 3. When submitting a Pull Request with the specified number in the action, the bot will add a reaction
 
 <img width="521" alt="Captura de ecrã 2022-12-12, às 23 08 41" src="https://user-images.githubusercontent.com/29093946/207176909-e9cd7360-a66c-4fbc-ada1-f65042f9c8f7.png">
+
+
+# License
+
+[MIT](https://github.com/stavares843/emoji-pr-number/blob/main/LICENSE)
